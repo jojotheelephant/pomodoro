@@ -1,0 +1,24 @@
+.awards {
+    padding-top: 25px;
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+}
+
+.starr {
+    color: #d93636;
+    font-size: 1.4rem;
+    margin: 1px;
+}
+
+.star-block {
+    width: 300px;
+    padding-top: 15px;
+}
+
+.awardd {
+    font-size: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    color: gold;
+}
